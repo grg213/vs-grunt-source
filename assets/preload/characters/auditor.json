@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-160
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-200
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-180
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-163
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-180
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "grunt/the auditor",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "auditor",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

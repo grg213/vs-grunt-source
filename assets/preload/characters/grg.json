@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				381,
+				-160
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "grg left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-190
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "grg down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				584,
+				570
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "grg up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-183
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "grg right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-180
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "grg idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "grunt/funny_grg213_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

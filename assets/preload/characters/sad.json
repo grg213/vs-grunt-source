@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				-292
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sad guy idle"
+		},
+		{
+			"offsets": [
+				104,
+				-301
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sad guy left"
+		},
+		{
+			"offsets": [
+				-2,
+				-302
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sad guy right"
+		},
+		{
+			"offsets": [
+				-6,
+				-392
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sad guy down"
+		},
+		{
+			"offsets": [
+				61,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sad guy up"
+		},
+		{
+			"offsets": [
+				63,
+				-231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "happy guy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "grunt/sad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

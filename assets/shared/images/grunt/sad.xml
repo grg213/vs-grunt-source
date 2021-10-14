@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sad.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy guy0000" x="0" y="0" width="486" height="539"/>
+	<SubTexture name="happy guy0001" x="486" y="0" width="454" height="504" frameX="-16" frameY="-18" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0002" x="940" y="0" width="420" height="469" frameX="-33" frameY="-35" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0003" x="940" y="0" width="420" height="469" frameX="-33" frameY="-35" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0004" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0005" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0006" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0007" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0008" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0009" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0010" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0011" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="happy guy0012" x="1360" y="0" width="396" height="445" frameX="-45" frameY="-47" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="sad guy down0000" x="1756" y="0" width="443" height="347" frameX="-1" frameY="-11" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0001" x="1756" y="0" width="443" height="347" frameX="-1" frameY="-11" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0002" x="2199" y="0" width="430" height="347" frameX="0" frameY="-11" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0003" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0004" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0005" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0006" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0007" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0008" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0009" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0010" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0011" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0012" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0013" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0014" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0015" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy down0016" x="2629" y="0" width="419" height="358" frameX="-1" frameY="0" frameWidth="444" frameHeight="358"/>
+	<SubTexture name="sad guy idle0000" x="3048" y="0" width="431" height="413" frameX="0" frameY="-33" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0001" x="3048" y="0" width="431" height="413" frameX="0" frameY="-33" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0002" x="0" y="539" width="433" height="436" frameX="-2" frameY="-10" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0003" x="0" y="539" width="433" height="436" frameX="-2" frameY="-10" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0004" x="433" y="539" width="438" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0005" x="433" y="539" width="438" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0006" x="871" y="539" width="440" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0007" x="871" y="539" width="440" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0008" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0009" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0010" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0011" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0012" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0013" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0014" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0015" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0016" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy idle0017" x="1311" y="539" width="439" height="446" frameX="-2" frameY="0" frameWidth="442" frameHeight="446"/>
+	<SubTexture name="sad guy left0000" x="1750" y="539" width="506" height="437" frameX="0" frameY="-1" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0001" x="1750" y="539" width="506" height="437" frameX="0" frameY="-1" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0002" x="2256" y="539" width="507" height="438" frameX="-17" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0003" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0004" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0005" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0006" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0007" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0008" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0009" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0010" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0011" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0012" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0013" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0014" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0015" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0016" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0017" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0018" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy left0019" x="2763" y="539" width="500" height="438" frameX="-37" frameY="0" frameWidth="537" frameHeight="438"/>
+	<SubTexture name="sad guy right0000" x="0" y="985" width="731" height="437" frameX="-1" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0001" x="731" y="985" width="644" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0002" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0003" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0004" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0005" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0006" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0007" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0008" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0009" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0010" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0011" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0012" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0013" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0014" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0015" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0016" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0017" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0018" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0019" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0020" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0021" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0022" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy right0023" x="1375" y="985" width="626" height="437" frameX="0" frameY="0" frameWidth="732" frameHeight="437"/>
+	<SubTexture name="sad guy up0000" x="2001" y="985" width="505" height="956" frameX="0" frameY="0" frameWidth="505" frameHeight="960"/>
+	<SubTexture name="sad guy up0001" x="2001" y="985" width="505" height="956" frameX="0" frameY="0" frameWidth="505" frameHeight="960"/>
+	<SubTexture name="sad guy up0002" x="2506" y="985" width="500" height="834" frameX="-4" frameY="-126" frameWidth="505" frameHeight="960"/>
+	<SubTexture name="sad guy up0003" x="2506" y="985" width="500" height="834" frameX="-4" frameY="-126" frameWidth="505" frameHeight="960"/>
+	<SubTexture name="sad guy up0004" x="3006" y="985" width="492" height="673" frameX="-12" frameY="-285" frameWidth="505" frameHeight="960"/>
+	<SubTexture name="sad guy up0005" x="3006" y="985" width="492" height="673" frameX="-12" frameY="-285" frameWidth="505" frameHeight="960"/>
+	<SubTexture name="sad guy up0006" x="0" y="1941" width="492" height="518" frameX="-12" frameY="-440" frameWidth="505" frameHeight="960"/>
+</TextureAtlas>
