@@ -41,6 +41,7 @@ class StoryMenuState extends MusicBeatState
 	var weekCharacters:Array<Dynamic> = [
 		['', 'bf', 'gf'],
 		['grunt', 'bf', 'gf'],
+		['gf', 'bf', 'gf'],
 		['gf', 'bf', 'gf']
 	];
 
@@ -48,12 +49,14 @@ class StoryMenuState extends MusicBeatState
 	var weekNames:Array<String> = [
 		"funkin tutorial",
 		"Madness... Alot of madness",
-		"Mysterious Creature (this is a v2 demo)"
+		"Mysterious Creature",
+		"shitposting lmfao"
 	];
 
 	//Background asset name, the background files are stored on assets/preload/menubackgrounds/
 	var weekBackground:Array<String> = [
 		'stage',		
+		'ground',
 		'ground',
 		'ground'
 	];

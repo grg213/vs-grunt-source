@@ -24,7 +24,8 @@ class FreeplayState extends MusicBeatState
 	//Character head icons for your songs
 	static var songsHeads:Array<Dynamic> = [
 		['grunt'],
-		['auditor']
+		['auditor'],		
+		['sad']
 	];
 
 	var songs:Array<SongMetadata> = [];

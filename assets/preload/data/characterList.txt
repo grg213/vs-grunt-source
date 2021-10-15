@@ -24,3 +24,6 @@ mad-guy
 sad
 grg
 auditor
+ronk
+ronk-god
+sunky

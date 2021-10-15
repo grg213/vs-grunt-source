@@ -281,12 +281,17 @@ class PlayState extends MusicBeatState
 
 		switch (SONG.song.toLowerCase())
 		{
-			case 'mysterious':
+			case 'ronk' | 'ronkshed' | 'jaws' | 'ball-torture':
+				defaultCamZoom = 0.8;
+				curStage = 'funny';
+				var bg:BGSprite = new BGSprite('grunt/A', -600, -350, 0.9, 0.9);
+				add(bg);
+			case 'mysterious' | 'distinctive' | 'outrage' | 'tabmoc-ssendas':
 				defaultCamZoom = 0.6;
 				curStage = 'funny';
 				var bg:BGSprite = new BGSprite('grunt/anotherDumbBG', -600, -350, 0.9, 0.9);
 				add(bg);
-			case 'distinctive' | 'outrage' | 'tabmoc-ssendas' | 'sadness':
+			case 'sadness':
 			    defaultCamZoom = 0.7;
 				curStage = 'funny';
 				var bg:BGSprite = new BGSprite('grunt/crappyBG', -600, -350, 0.9, 0.9);
@@ -1890,16 +1895,6 @@ class PlayState extends MusicBeatState
 			DiscordClient.changePresence("Chart Editor", null, null, true);
 			#end
 		}
-
-		if (FlxG.keys.justPressed.SIX && FlxG.keys.justPressed.NINE)
-			{
-				PlayState.SONG = Song.loadFromJson('sadness-hard', 'sadness');
-				PlayState.isStoryMode = false;
-				PlayState.storyDifficulty = 2;
-				FlxTransitionableState.skipNextTransIn = true;
-				FlxTransitionableState.skipNextTransOut = true;
-				LoadingState.loadAndSwitchState(new PlayState());
-			}
 
 		// FlxG.watch.addQuick('VOL', vocals.amplitudeLeft);
 		// FlxG.watch.addQuick('VOLRight', vocals.amplitudeRight);
